@@ -1,0 +1,23 @@
+{
+  "short_name": "FieldVision",
+  "name": "FieldVision: Bharat Sales Automator",
+  "description": "Digitizing & Automating Field Sales Management for Indian SMEs",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "portrait"
+}
